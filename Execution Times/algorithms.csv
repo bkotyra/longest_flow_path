@@ -1,0 +1,12 @@
+ALGORITHM,DESCRIPTION
+R_S,recursive sequential
+R_T100,recursive tasks (100)
+R_T200,recursive tasks (200)
+R_T400,recursive tasks (400)
+R_T800,recursive tasks (800)
+R_T1600,recursive tasks (1600)
+TDM_S,top-down max sequential
+TDS_S,top-down single sequential
+TDS_P,top-down single parallel
+DD_S,double drop sequential
+DD_P,double drop parallel

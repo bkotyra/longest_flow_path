@@ -1,4 +1,4 @@
-This repository is part of an ongoing publication.
+This repository is part of the work presented in [Fast parallel algorithms for finding the longest flow paths in flow direction grids](https://doi.org/10.1016/j.envsoft.2023.105728).
 
 ---
 
